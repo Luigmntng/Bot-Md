@@ -10,6 +10,7 @@ This Bot WhatsApp multi device recode King of bear, working with [`@adiwajshing/
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
+• ganti session.data.json dgn sesi milikmu
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
 * Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
