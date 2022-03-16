@@ -4,7 +4,7 @@ WhatsApp Bot Multi Device
 <p align="center">
 	<img src="https://i.ibb.co/BwGZCyL/jokowi.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">Bot-Md</h1>
 
 This Bot WhatsApp multi device recode King of bear, working with [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
 
